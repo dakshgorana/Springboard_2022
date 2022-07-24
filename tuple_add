@@ -1,0 +1,7 @@
+# Tupe,if there is no number after comma tuple will remove it and add remaining 
+t =("a","b")
+t+=("c",)
+t
+
+o/p:
+('a', 'b', 'c')
